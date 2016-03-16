@@ -1,2 +1,5 @@
-# netty-4.0-sample
-Sample app with netty 4.0
+
+Netty nodrošina asinhronu klients-serveris komunikāciju. Labi strādā ar google protobuf.
+
+#TODO
+ - izveidots piemēru ar google protobuf
